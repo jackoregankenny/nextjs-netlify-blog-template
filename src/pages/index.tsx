@@ -39,7 +39,7 @@ export default function Index() {
           line-height: 1.25;
         }
         .fancy {
-          color: #15847d;
+          color: #ffffff;
         }
         .handle {
           display: inline-block;
